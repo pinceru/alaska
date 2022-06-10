@@ -1,4 +1,4 @@
-##### [parado]
+##### ```parado```
 
 # Alaska
 
@@ -14,14 +14,14 @@
 #### O sistema reconhece sua fala e responde com frases pré programadas.
 
 ## Requisitos: 
-##### - python3
-##### - SpeechRecognition 3.8.1
-##### - PyAudio 0.2.11
-##### - vosk 0.3.32
-##### - pyttsx3 2.90
+##### - ```python3```
+##### - ```SpeechRecognition 3.8.1```
+##### - ```PyAudio 0.2.11```
+##### - ```vosk 0.3.32```
+##### - ```pyttsx3 2.90```
 
 ## Nota:
-#### O projeto foi feito com o intuito de aprendizado e não deve ser executado.
+#### ```O projeto foi feito com o intuito de aprendizado e não deve ser executado.```
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Python" height="65" width=65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
